@@ -4,10 +4,10 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @RestController
-public class HomeController {
+public class TestController {
 
-	@RequestMapping("/")
-	public String home(){
-		return "Das Boot, reporting for duty";
+	@RequestMapping("/api")
+	public String ApiTest(){
+		return "{\"name\":\"moulton\"}";
 	}
 }
