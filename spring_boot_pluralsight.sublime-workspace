@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"RequestM",
+				"RequestMethod"
+			],
+			[
+				"R",
+				"RequestMapping"
+			],
+			[
 				"prop",
 				"properties"
 			],
@@ -327,6 +335,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/main/resources/application.properties",
+			"settings":
+			{
+				"buffer_size": 733,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -361,10 +377,29 @@
 	},
 	"expanded_folders":
 	[
-		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight"
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/config",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/resources"
 	],
 	"file_history":
 	[
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/pom.xml",
+		"/home/moulton/Downloads/spring-boot-first-application/3-spring-boot-first-application-m3-exercise-files/after/das-boot/pom.xml",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/controller/ShipwreckController.java",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/repository/ShipwreckRepository.java",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/controller/TestController.java",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/ps-spring-boot-resources/client/README.md",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/ps-spring-boot-resources/README.md",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/.gitignore",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/ps-spring-boot-resources/.gitignore",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/controller/HomeController.java",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/App.java",
+		"/home/moulton/Documents/spring_basics/spring_boot_pluralsight/README.md",
 		"/home/moulton/Documents/spring_basics/spring_boot_basic/app.groovy",
 		"/home/moulton/Documents/spring_basics/spring_boot_basic/src/main/test/java/hello/HelloControllerIT.java",
 		"/home/moulton/Documents/spring_basics/spring_boot_basic/src/main/test/java/hello/HelloControllerTest.java",
@@ -454,8 +489,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/main/resources/application.properties",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 733,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/JavaProperties.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -536,7 +600,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 259.0,
+	"side_bar_width": 149.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

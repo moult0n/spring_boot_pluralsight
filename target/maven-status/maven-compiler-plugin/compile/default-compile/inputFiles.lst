@@ -1,3 +1,7 @@
+/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/controller/ShipwreckStub.java
 /home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/controller/HomeController.java
-/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/controller/TestController.java
+/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/controller/ShipwreckController.java
+/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/repository/ShipwreckRepository.java
+/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/model/Shipwreck.java
+/home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/config/PersistenceConfiguration.java
 /home/moulton/Documents/spring_basics/spring_boot_pluralsight/src/main/java/com/boot/App.java
